@@ -1,0 +1,7 @@
+name: BetterWeaponry
+version: '1.1'
+main: dev.revizion.ape.betterWeaponry.BetterWeaponry
+api-version: '1.21'
+authors: [ Ape ]
+description: Changes to bring fun weapon abilities and other tweaks to Minecraft
+website: ape.revizion.dev
