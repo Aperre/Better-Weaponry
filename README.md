@@ -5,7 +5,7 @@ A Minecraft plugin adding different fun weapon features
 ## Better Weaponry
 **Better Weaponry is a simple and fun plugin that adds new ways to use old vanilla weapons and tools by allowing you to do special moves or other attacks.**
 
-### Weapon moves
+### ⚔️ Weapon moves
 - **Mace:**
     - **Ground Slam:** You can **shift + left click** while **falling down** at a high enough speed to do a **Ground Slam** (AoE damage)
 **More Weapon features in the future**
@@ -39,6 +39,6 @@ A Minecraft plugin adding different fun weapon features
    Copy it into your Minecraft server’s `plugins` directory.
 
 
-### Licensing
+### 📜 Licensing
 - This project is licensed under the MIT license.
 - Refer to LICENSE.md for more information.
