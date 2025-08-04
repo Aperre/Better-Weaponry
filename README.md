@@ -24,6 +24,7 @@ A Minecraft plugin adding different fun weapon features
    On **Linux/macOS**:
 
    ```bash
+   chmod +x ./gradlew
    ./gradlew build
    ```
 
