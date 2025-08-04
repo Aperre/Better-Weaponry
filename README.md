@@ -1,5 +1,6 @@
 # Better Weaponry
-A Minecraft plugin adding different fun weapon features <br>
+A Minecraft plugin adding different fun weapon features 
+<br><br>
 <a href='https://ko-fi.com/P5P5KJSXZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Better Weaponry
