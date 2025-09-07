@@ -16,7 +16,7 @@ A Minecraft plugin adding different fun weapon features
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/better-weaponry.git
+   git clone https://github.com/Aperre/better-weaponry.git
    cd better-weaponry
    ```
 
