@@ -1,6 +1,7 @@
 # Better Weaponry
 A Minecraft plugin adding different fun weapon features 
 <br><br>
+[![Modrinth](https://img.shields.io/modrinth/dt/betterweaponry?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/plugin/betterweaponry) <br>
 <a href='https://ko-fi.com/P5P5KJSXZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Better Weaponry
